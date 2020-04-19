@@ -20,7 +20,7 @@ Resources realted to cyber security
 2. Why is it named XSS - https://security.stackexchange.com/questions/135545/why-is-it-called-cross-site-scripting-xss?newreg=77dc88218a21435bb7ffd26246b2653b
 
 #### Tools
-1. BeEF - https://beefproject.com/, https://github.com/beefproject/beef
+1. XSStrike - https://github.com/ParikhKadam/XSStrike
 
 #### Labs
 1. XSS Practice Labs - http://leettime.net/xsslab1/chalg1.php
