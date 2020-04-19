@@ -24,5 +24,6 @@ Resources realted to cyber security
 
 #### Labs
 1. XSS Practice Labs - http://leettime.net/xsslab1/chalg1.php
-2. XSS Game - https://xss-game.appspot.com/
+2. Learn XSS by practice - http://prompt.ml/
+3. XSS Game - https://xss-game.appspot.com/
 
