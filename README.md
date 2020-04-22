@@ -19,9 +19,13 @@ Resources realted to cyber security
 
 ## Web Security
 
-### HTTP headers
+### HTTP
+#### Headers
 1. Header field information - https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
 2. Purpose of `accept` and it's interpretability - https://stackoverflow.com/questions/10496570/what-is-the-purpose-of-the-q-values-in-the-http-accept-request-header
+
+#### Response Codes
+1. 429 response code - https://stackoverflow.com/questions/22786068/how-to-avoid-http-error-429-too-many-requests-python
 
 ### Cross Site Scripting (XSS)
 https://github.com/s0md3v/AwesomeXSS
