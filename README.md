@@ -12,6 +12,11 @@ Resources realted to cyber security
 1. Safari hack to access webcam - https://www.ryanpickren.com/webcam-hacking
 2. Stored XSS in Amazon book reads - https://drwetter.eu/amazon/storedXSS-vuln.at.amazon.html
 
+## Writing bug bounty reports
+1. How to write bug bounty reports - https://www.hackerone.com/blog/how-bug-bounty-reports-work
+2. Example report 1 - https://hackerone.com/reports/128085
+3. Example report 2 - https://hackerone.com/reports/115748
+
 ## Web Security
 
 ### HTTP headers
