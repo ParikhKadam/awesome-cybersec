@@ -19,6 +19,10 @@ Resources realted to cyber security
 
 ## Web Security
 
+### Common
+1. URL Obfuscation - https://blog.malwarebytes.com/cybercrime/2015/09/obfuscated-urls-where-is-that-link-taking-you/
+2. URL fragments and SEO (Google Bot) - https://blog.httpwatch.com/2011/03/01/6-things-you-should-know-about-fragment-urls/
+
 ### HTTP
 #### Headers
 1. Header field information - https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
