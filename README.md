@@ -23,6 +23,13 @@ Resources realted to cyber security
 2. Example report 1 - https://hackerone.com/reports/128085
 3. Example report 2 - https://hackerone.com/reports/115748
 
+## Networking
+
+### Proxies and VPNs
+1. No proxy, HTTP proxy and SSL/TLS proxy - https://security.stackexchange.com/questions/61334/does-an-https-proxy-encrypt-traffic-between-proxy-client-and-server-for-http-req/61336#61336
+2. Encrypted proxy vs VPN - https://security.stackexchange.com/questions/215231/a-proxy-that-encrypts-your-data-is-the-same-thing-as-a-vpn
+3. VPN vs SSL to communicate between machine over internet - https://security.stackexchange.com/questions/1476/what-is-the-difference-in-security-between-a-vpn-and-a-ssl-connection
+
 ## Web Security
 
 ### Common
