@@ -1,6 +1,9 @@
 # awesome-cybersec
 Resources realted to cyber security
 
+## Terminology
+1. IoC (Indicator of Compromise) - https://en.wikipedia.org/wiki/Indicator_of_compromise
+
 ## Reverse Engineering
 
 ### Assembly
