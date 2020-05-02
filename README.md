@@ -10,6 +10,9 @@ Resources realted to cyber security
 1. Assembly obfuscation - https://reverseengineering.stackexchange.com/questions/12507/how-to-obfuscate-x86-assembly-code
 2. More details on obfuscation - https://en.wikibooks.org/wiki/X86_Disassembly/Code_Obfuscation
 
+### Compilers and Linkers
+1. What is Incremental Linking - https://stackoverflow.com/questions/3349521/what-is-incremental-linking
+
 ### Others
 1. Tools for .so (shared object) files - https://reverseengineering.stackexchange.com/questions/4624/how-do-i-reverse-engineer-so-files-found-in-android-apks?newreg=c5fdcf661f3d401d944b066853af1d10
 2. `hexadecimal` and `base64` encoding of a windows executable - https://stackoverflow.com/questions/36796744/convert-exe-to-hex-to-be-run-by-python
