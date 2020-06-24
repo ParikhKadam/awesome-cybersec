@@ -57,6 +57,11 @@ https://github.com/s0md3v/AwesomeXSS
 1. How does XSS work? - https://security.stackexchange.com/questions/1368/how-does-xss-work
 2. Why is it named XSS - https://security.stackexchange.com/questions/135545/why-is-it-called-cross-site-scripting-xss?newreg=77dc88218a21435bb7ffd26246b2653b
 
+### Insecure Direct Object References (IDOR)
+
+#### Tutorials
+1. Live example of IDOR - https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8
+
 #### Tools
 1. XSStrike - https://github.com/ParikhKadam/XSStrike
 
