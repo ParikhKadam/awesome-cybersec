@@ -73,5 +73,9 @@ https://github.com/s0md3v/AwesomeXSS
 
 
 ## Linux Security
+
 ### Privilege Escalation
-1. Basics - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+#### Tutorials
+1. Basic - https://payatu.com/guide-linux-privilege-escalation
+2. Detailed - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
