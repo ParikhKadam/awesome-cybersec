@@ -74,6 +74,11 @@ https://github.com/s0md3v/AwesomeXSS
 #### Tutorials
 1. Live example of IDOR - https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8
 
+### Bypassing Cross Origin Resource Sharing
+
+#### Tutorials
+1. Basics (**Note that the 1st hack shown is misleading, read the comments**) - https://www.we45.com/blog/3-ways-to-exploit-misconfigured-cross-origin-resource-sharing-cors?fbclid=IwAR3CH_41UQgrrgC5ZHJxlGihSgw2QXNlPHjqWsqdEXQMS8lTZEPGQ4ISghU
+2. Understanding Cross Origin Resource Sharing - https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#Requests_with_credentials.
 
 ## Linux Security
 
@@ -87,5 +92,5 @@ https://github.com/s0md3v/AwesomeXSS
 https://github.com/jdonsec/AllThingsAndroid
 
 ### Others
-1. https://www.allysonomalley.com/2020/06/23/the-top-5-most-common-mobile-app-security-flaws/
+1. Top 5 mobile app security flaws - https://www.allysonomalley.com/2020/06/23/the-top-5-most-common-mobile-app-security-flaws/
 
