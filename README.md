@@ -47,10 +47,17 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 1. URL Obfuscation - https://blog.malwarebytes.com/cybercrime/2015/09/obfuscated-urls-where-is-that-link-taking-you/
 2. URL fragments and SEO (Google Bot) - https://blog.httpwatch.com/2011/03/01/6-things-you-should-know-about-fragment-urls/
 
-### HTTP
+### HTTP and Web Browsers
 #### Headers
 1. Header field information - https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
 2. Purpose of `accept` and it's interpretability - https://stackoverflow.com/questions/10496570/what-is-the-purpose-of-the-q-values-in-the-http-accept-request-header
+
+### Exploiting Cross Origin Resource Sharing
+#### Tutorials
+1. Basics (**Note that the 1st hack shown is misleading, read the comments**) - https://www.we45.com/blog/3-ways-to-exploit-misconfigured-cross-origin-resource-sharing-cors?fbclid=IwAR3CH_41UQgrrgC5ZHJxlGihSgw2QXNlPHjqWsqdEXQMS8lTZEPGQ4ISghU
+2. Understanding Cross Origin Resource Sharing - https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#Requests_with_credentials.
+
+
 
 #### Response Codes
 1. 429 response code - https://stackoverflow.com/questions/22786068/how-to-avoid-http-error-429-too-many-requests-python
@@ -75,12 +82,6 @@ https://github.com/s0md3v/AwesomeXSS
 
 #### Tutorials
 1. Live example of IDOR - https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8
-
-### Bypassing Cross Origin Resource Sharing
-
-#### Tutorials
-1. Basics (**Note that the 1st hack shown is misleading, read the comments**) - https://www.we45.com/blog/3-ways-to-exploit-misconfigured-cross-origin-resource-sharing-cors?fbclid=IwAR3CH_41UQgrrgC5ZHJxlGihSgw2QXNlPHjqWsqdEXQMS8lTZEPGQ4ISghU
-2. Understanding Cross Origin Resource Sharing - https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#Requests_with_credentials.
 
 ## Linux Security
 
