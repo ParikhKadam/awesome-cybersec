@@ -20,11 +20,14 @@ Resources realted to cyber security
 ## Cryptography
 1. Why `xor` encryption - https://stackoverflow.com/questions/1379952/why-is-xor-used-in-cryptography
 
-## Bug hunts and its understanding
+## Bug Bounty and PoC
+https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+
+### Bug hunts and its understanding
 1. Safari hack to access webcam - https://www.ryanpickren.com/webcam-hacking
 2. Stored XSS in Amazon book reads - https://drwetter.eu/amazon/storedXSS-vuln.at.amazon.html
 
-## Writing bug bounty reports
+### Reporting
 1. How to write bug bounty reports - https://www.hackerone.com/blog/how-bug-bounty-reports-work
 2. Example report 1 - https://hackerone.com/reports/128085
 3. Example report 2 - https://hackerone.com/reports/115748
@@ -38,7 +41,7 @@ Resources realted to cyber security
 
 ## Web Security
 
-### Common
+### URL
 1. URL Obfuscation - https://blog.malwarebytes.com/cybercrime/2015/09/obfuscated-urls-where-is-that-link-taking-you/
 2. URL fragments and SEO (Google Bot) - https://blog.httpwatch.com/2011/03/01/6-things-you-should-know-about-fragment-urls/
 
@@ -79,3 +82,10 @@ https://github.com/s0md3v/AwesomeXSS
 #### Tutorials
 1. Basic - https://payatu.com/guide-linux-privilege-escalation
 2. Detailed - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+## Mobile App Security
+https://github.com/jdonsec/AllThingsAndroid
+
+### Others
+1. https://www.allysonomalley.com/2020/06/23/the-top-5-most-common-mobile-app-security-flaws/
+
