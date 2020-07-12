@@ -57,6 +57,7 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 1. `GET` vs. `CONNECT` - https://stackoverflow.com/questions/11697943/when-should-one-use-connect-and-get-http-methods-at-http-proxy-server/40329026
 
 ### SSL/TLS
+#### Certificates
 1. SSL certificate, intermediate certificate and root certificate basics and the chain of trust - https://knowledge.digicert.com/solution/SO16297
 2. Difference between root and intermediate certificates - https://www.ssldragon.com/blog/what-is-the-difference-between-root-certificates-and-intermediate-certificates/
 3. Advanced understanding of why intermediate certificates - https://www.thesslstore.com/blog/root-certificates-intermediate/ 
