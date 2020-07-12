@@ -52,6 +52,9 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 1. Header field information - https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
 2. Purpose of `accept` and it's interpretability - https://stackoverflow.com/questions/10496570/what-is-the-purpose-of-the-q-values-in-the-http-accept-request-header
 
+#### Methods
+1. `GET` vs. `CONNECT` - https://stackoverflow.com/questions/11697943/when-should-one-use-connect-and-get-http-methods-at-http-proxy-server/40329026
+
 ### Exploiting Cross Origin Resource Sharing
 #### Tutorials
 1. Basics (**Note that the 1st hack shown is misleading, read the comments**) - https://www.we45.com/blog/3-ways-to-exploit-misconfigured-cross-origin-resource-sharing-cors?fbclid=IwAR3CH_41UQgrrgC5ZHJxlGihSgw2QXNlPHjqWsqdEXQMS8lTZEPGQ4ISghU
