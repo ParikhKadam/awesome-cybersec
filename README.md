@@ -40,6 +40,7 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 1. No proxy, HTTP proxy and SSL/TLS proxy - https://security.stackexchange.com/questions/61334/does-an-https-proxy-encrypt-traffic-between-proxy-client-and-server-for-http-req/61336#61336
 2. Encrypted proxy vs VPN - https://security.stackexchange.com/questions/215231/a-proxy-that-encrypts-your-data-is-the-same-thing-as-a-vpn
 3. VPN vs SSL to communicate between machine over internet - https://security.stackexchange.com/questions/1476/what-is-the-difference-in-security-between-a-vpn-and-a-ssl-connection
+4. How does and intermediate HTTPS proxy work - https://security.stackexchange.com/questions/191759/how-is-intercepting-my-own-https-traffic-possible
 
 ## Web Security
 
@@ -55,12 +56,15 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 #### Methods
 1. `GET` vs. `CONNECT` - https://stackoverflow.com/questions/11697943/when-should-one-use-connect-and-get-http-methods-at-http-proxy-server/40329026
 
+### SSL/TLS
+1. SSL certificate, intermediate certificate and root certificate basics and the chain of trust - https://knowledge.digicert.com/solution/SO16297
+2. Difference between root and intermediate certificates - https://www.ssldragon.com/blog/what-is-the-difference-between-root-certificates-and-intermediate-certificates/
+3. Advanced understanding of why intermediate certificates - https://www.thesslstore.com/blog/root-certificates-intermediate/ 
+
 ### Exploiting Cross Origin Resource Sharing
 #### Tutorials
 1. Basics (**Note that the 1st hack shown is misleading, read the comments**) - https://www.we45.com/blog/3-ways-to-exploit-misconfigured-cross-origin-resource-sharing-cors?fbclid=IwAR3CH_41UQgrrgC5ZHJxlGihSgw2QXNlPHjqWsqdEXQMS8lTZEPGQ4ISghU
 2. Understanding Cross Origin Resource Sharing - https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#Requests_with_credentials.
-
-
 
 #### Response Codes
 1. 429 response code - https://stackoverflow.com/questions/22786068/how-to-avoid-http-error-429-too-many-requests-python
