@@ -41,6 +41,7 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 2. Encrypted proxy vs VPN - https://security.stackexchange.com/questions/215231/a-proxy-that-encrypts-your-data-is-the-same-thing-as-a-vpn
 3. VPN vs SSL to communicate between machine over internet - https://security.stackexchange.com/questions/1476/what-is-the-difference-in-security-between-a-vpn-and-a-ssl-connection
 4. How does and intermediate HTTPS proxy work - https://security.stackexchange.com/questions/191759/how-is-intercepting-my-own-https-traffic-possible
+5. Explicit vs. Transparent proxy - https://leonelson.com/2016/01/07/explicit-vs-transparent-proxy/
 
 ## Web Security
 
