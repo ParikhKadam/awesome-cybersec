@@ -43,6 +43,11 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 4. How does and intermediate HTTPS proxy work - https://security.stackexchange.com/questions/191759/how-is-intercepting-my-own-https-traffic-possible
 5. Explicit vs. Transparent proxy - https://leonelson.com/2016/01/07/explicit-vs-transparent-proxy/
 
+### Sockets
+1. Socket - A unique tuple -> (protocol, source address, source port, destination address, destination port)
+2. Understanding of TIME_WAIT and SO_REUSEADDR - https://hea-www.harvard.edu/~fine/Tech/addrinuse.html
+3. IPv6 basics - https://www.cisco.com/c/en/us/td/docs/interfaces_modules/services_modules/ace/vA5_1_0/configuration/rtg_brdg/guide/rtbrgdgd/ipv6.html
+
 ## Web Security
 
 ### URL
@@ -61,7 +66,7 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 #### Certificates
 1. SSL certificate, intermediate certificate and root certificate basics and the chain of trust - https://knowledge.digicert.com/solution/SO16297
 2. Difference between root and intermediate certificates - https://www.ssldragon.com/blog/what-is-the-difference-between-root-certificates-and-intermediate-certificates/
-3. Advanced understanding of why intermediate certificates - https://www.thesslstore.com/blog/root-certificates-intermediate/ 
+3. Advanced understanding of why intermediate certificates - https://www.thesslstore.com/blog/root-certificates-intermediate/
 
 ### Exploiting Cross Origin Resource Sharing
 #### Tutorials
