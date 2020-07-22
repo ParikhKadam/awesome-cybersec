@@ -82,6 +82,7 @@ https://github.com/s0md3v/AwesomeXSS
 #### Tutorials
 1. How does XSS work? - https://security.stackexchange.com/questions/1368/how-does-xss-work
 2. Why is it named XSS - https://security.stackexchange.com/questions/135545/why-is-it-called-cross-site-scripting-xss?newreg=77dc88218a21435bb7ffd26246b2653b
+3. Local file read via XSS - https://echopwn.com/local-file-read-via-xss-using-pdf-generate-functionality/
 
 #### Tools
 1. XSStrike - https://github.com/ParikhKadam/XSStrike
