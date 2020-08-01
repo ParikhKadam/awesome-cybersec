@@ -25,6 +25,9 @@ https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 
 https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 
+### Getting started
+1. Learning path - https://medium.com/hackcura/learning-path-for-bug-bounty-6173557662a7
+
 ### Bug hunts and its understanding
 1. Safari hack to access webcam - https://www.ryanpickren.com/webcam-hacking
 2. Stored XSS in Amazon book reads - https://drwetter.eu/amazon/storedXSS-vuln.at.amazon.html
