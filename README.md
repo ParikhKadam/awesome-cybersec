@@ -72,7 +72,10 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 3. Advanced understanding of why intermediate certificates - https://www.thesslstore.com/blog/root-certificates-intermediate/
 
 ### OAuth 1 and 2
+#### Tutorials
 1. Understanding OAuth 2 - https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+2. OAuth 1 vs 2 - https://www.synopsys.com/blogs/software-security/oauth-2-0-vs-oauth-1-0/
+3. How is OAuth 2 different from OAuth 1 - https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1
 
 ### Exploiting Cross Origin Resource Sharing
 #### Tutorials
