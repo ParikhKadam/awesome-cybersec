@@ -92,6 +92,9 @@ https://github.com/s0md3v/AwesomeXSS
 1. How does XSS work? - https://security.stackexchange.com/questions/1368/how-does-xss-work
 2. Why is it named XSS - https://security.stackexchange.com/questions/135545/why-is-it-called-cross-site-scripting-xss?newreg=77dc88218a21435bb7ffd26246b2653b
 3. Local file read via XSS - https://echopwn.com/local-file-read-via-xss-using-pdf-generate-functionality/
+4. Same origin policy (wikipedia) - In computing, the same-origin policy is an important concept in the web application security model. Under the policy, a web browser permits scripts contained in a first web page to access data in a second web page, but only if both web pages have the same origin. Wikipedia
+5. Same origin policy in deep - https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy
+6. XSS and same origin policy - https://stackoverflow.com/questions/7012435/cross-site-scripting-attacks-and-same-origin-policy
 
 #### Tools
 1. XSStrike - https://github.com/ParikhKadam/XSStrike
@@ -101,6 +104,11 @@ https://github.com/s0md3v/AwesomeXSS
 2. Learn XSS by practice - http://prompt.ml/
 3. XSS Game - https://xss-game.appspot.com/
 
+### Cross Site Request Forgery (CSRF)
+Similar to XSS in a way. XSS can further be extended to CSRF.
+
+#### Tutorials
+1. What is CSRF? What measures should and should not be taken to precent it? - https://owasp.org/www-community/attacks/csrf 
 
 ### Insecure Direct Object References (IDOR)
 
