@@ -92,7 +92,7 @@ https://github.com/s0md3v/AwesomeXSS
 1. How does XSS work? - https://security.stackexchange.com/questions/1368/how-does-xss-work
 2. Why is it named XSS - https://security.stackexchange.com/questions/135545/why-is-it-called-cross-site-scripting-xss?newreg=77dc88218a21435bb7ffd26246b2653b
 3. Local file read via XSS - https://echopwn.com/local-file-read-via-xss-using-pdf-generate-functionality/
-4. Same origin policy (wikipedia) - In computing, the same-origin policy is an important concept in the web application security model. Under the policy, a web browser permits scripts contained in a first web page to access data in a second web page, but only if both web pages have the same origin. Wikipedia
+4. Same origin policy - https://en.wikipedia.org/wiki/Same-origin_policy
 5. Same origin policy in deep - https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy
 6. XSS and same origin policy - https://stackoverflow.com/questions/7012435/cross-site-scripting-attacks-and-same-origin-policy
 
