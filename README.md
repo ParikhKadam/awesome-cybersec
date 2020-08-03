@@ -71,6 +71,9 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 2. Difference between root and intermediate certificates - https://www.ssldragon.com/blog/what-is-the-difference-between-root-certificates-and-intermediate-certificates/
 3. Advanced understanding of why intermediate certificates - https://www.thesslstore.com/blog/root-certificates-intermediate/
 
+### OAuth 1 and 2
+1. Understanding OAuth 2 - https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+
 ### Exploiting Cross Origin Resource Sharing
 #### Tutorials
 1. Basics (**Note that the 1st hack shown is misleading, read the comments**) - https://www.we45.com/blog/3-ways-to-exploit-misconfigured-cross-origin-resource-sharing-cors?fbclid=IwAR3CH_41UQgrrgC5ZHJxlGihSgw2QXNlPHjqWsqdEXQMS8lTZEPGQ4ISghU
