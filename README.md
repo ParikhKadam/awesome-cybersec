@@ -61,6 +61,7 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 #### Headers
 1. Header field information - https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
 2. Purpose of `accept` and it's interpretability - https://stackoverflow.com/questions/10496570/what-is-the-purpose-of-the-q-values-in-the-http-accept-request-header
+3. Purpose of `X-Frame-Options` - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
 
 #### Methods
 1. `GET` vs. `CONNECT` - https://stackoverflow.com/questions/11697943/when-should-one-use-connect-and-get-http-methods-at-http-proxy-server/40329026
@@ -114,6 +115,10 @@ Similar to XSS in a way. XSS can further be extended to CSRF.
 
 #### Tutorials
 1. Live example of IDOR - https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8
+
+### Clickjacking
+#### Tutorials
+1. X-Frame-Options - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
 
 ## Linux Security
 
