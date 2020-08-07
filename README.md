@@ -80,6 +80,7 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 4. Attacks on OAtuh with better understanding of OAuth itself - http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/#Access_token_usage
 5. Attacking OAuth (a better version) - https://dhavalkapil.com/blogs/Attacking-the-OAuth-Protocol/
 6. Broadly cover and improve OAuth - https://sakurity.com/oauth
+7. OAuth and Phishing attack on it - https://www.youtube.com/watch?v=aU9RsE4fcRM
 
 ### Exploiting Cross Origin Resource Sharing
 #### Tutorials
