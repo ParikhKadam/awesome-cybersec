@@ -77,7 +77,7 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 1. Understanding OAuth 2 - https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
 2. OAuth 1 vs 2 - https://www.synopsys.com/blogs/software-security/oauth-2-0-vs-oauth-1-0/
 3. How is OAuth 2 different from OAuth 1 - https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1
-4. Attacks on OAtuh with better understanding of OAuth itself - http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/#Access_token_usage
+4. Attacks on OAtuh with better understanding of OAuth itself - http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/
 5. Attacking OAuth (a better version) - https://dhavalkapil.com/blogs/Attacking-the-OAuth-Protocol/
 6. Broadly cover and improve OAuth - https://sakurity.com/oauth
 7. OAuth and Phishing attack on it - https://www.youtube.com/watch?v=aU9RsE4fcRM
