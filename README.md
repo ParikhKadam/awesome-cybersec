@@ -81,6 +81,7 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 5. Attacking OAuth (a better version) - https://dhavalkapil.com/blogs/Attacking-the-OAuth-Protocol/
 6. Broadly cover and improve OAuth - https://sakurity.com/oauth
 7. OAuth and Phishing attack on it - https://www.youtube.com/watch?v=aU9RsE4fcRM
+8. Attacks on OAuth 2 (covers email address based account takeover) - https://medium.com/a-bugz-life/the-wondeful-world-of-oauth-bug-bounty-edition-af3073b354c1
 
 ### Exploiting Cross Origin Resource Sharing
 #### Tutorials
