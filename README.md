@@ -83,7 +83,8 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 7. OAuth and Phishing attack on it - https://www.youtube.com/watch?v=aU9RsE4fcRM
 8. Attacks on OAuth 2 (covers email address based account takeover) - https://medium.com/a-bugz-life/the-wondeful-world-of-oauth-bug-bounty-edition-af3073b354c1
 9. Complete guide to OAuth 2 and it's security implications - https://tools.ietf.org/html/rfc6749
-
+10. OAuth vs. OpenID - https://www.gluu.org/blog/oauth-vs-openid-whats-the-difference/
+11. OAuth 2.0 vs OpenID Connect vs SAML - https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/
 
 ### Exploiting Cross Origin Resource Sharing
 #### Tutorials
