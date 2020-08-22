@@ -85,6 +85,7 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 9. Complete guide to OAuth 2 and it's security implications - https://tools.ietf.org/html/rfc6749
 10. OAuth vs. OpenID - https://www.gluu.org/blog/oauth-vs-openid-whats-the-difference/
 11. OAuth 2.0 vs OpenID Connect vs SAML - https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/
+12. PKCE vs. Implicit Grant in OAuth - https://blog.postman.com/pkce-oauth-how-to/
 
 ### Exploiting Cross Origin Resource Sharing
 #### Tutorials
