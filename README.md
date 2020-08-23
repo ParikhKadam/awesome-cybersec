@@ -129,6 +129,11 @@ Similar to XSS in a way. XSS can further be extended to CSRF.
 #### Tutorials
 1. X-Frame-Options - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
 
+### APIs
+
+#### API Discovery
+1. Websites for API discovery - https://nordicapis.com/api-discovery-15-ways-to-find-apis/
+
 ## Linux Security
 
 ### Privilege Escalation
