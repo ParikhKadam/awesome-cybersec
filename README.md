@@ -45,6 +45,7 @@ https://gowsundar.gitbook.io/book-of-bugbounty-tips/
 3. VPN vs SSL to communicate between machine over internet - https://security.stackexchange.com/questions/1476/what-is-the-difference-in-security-between-a-vpn-and-a-ssl-connection
 4. How does and intermediate HTTPS proxy work - https://security.stackexchange.com/questions/191759/how-is-intercepting-my-own-https-traffic-possible
 5. Explicit vs. Transparent proxy - https://leonelson.com/2016/01/07/explicit-vs-transparent-proxy/
+6. Test a VPN server - https://www.cactusvpn.com/vpn/test-vpn-connections/
 
 ### Sockets
 1. Socket - A unique tuple -> (protocol, source address, source port, destination address, destination port)
